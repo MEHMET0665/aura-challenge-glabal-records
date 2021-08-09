@@ -28,4 +28,4 @@ const loadRecordsRequest=(payload)=>{
 const actionCreators={
   loadRecordsRequest,
 };
-export{actionCreators,actionTypes}
+export{actionCreators,actionTypes};
